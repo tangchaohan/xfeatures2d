@@ -12,6 +12,8 @@ curl https://raw.githubusercontent.com/opencv/opencv_3rdparty/34e4206aef44d50e6b
 curl https://raw.githubusercontent.com/opencv/opencv_3rdparty/34e4206aef44d50e6bbcd0ab06354b52e7466d26/boostdesc_bgm_hd.i -o 324426a24fa56ad9c5b8e3e0b3e5303e-boostdesc_bgm_hd.i
 curl https://raw.githubusercontent.com/opencv/opencv_3rdparty/34e4206aef44d50e6bbcd0ab06354b52e7466d26/boostdesc_bgm_bi.i -o 232c966b13651bd0e46a1497b0852191-boostdesc_bgm_bi.i
 curl https://raw.githubusercontent.com/opencv/opencv_3rdparty/34e4206aef44d50e6bbcd0ab06354b52e7466d26/boostdesc_bgm.i -o 0ea90e7a8f3f7876d450e4149c97c74f-boostdesc_bgm.i
+
+
 cd ../vgg
 curl https://raw.githubusercontent.com/opencv/opencv_3rdparty/fccf7cd6a4b12079f73bbfb21745f9babcd4eb1d/vgg_generated_120.i -o 151805e03568c9f490a5e3a872777b75-vgg_generated_120.i
 curl https://raw.githubusercontent.com/opencv/opencv_3rdparty/fccf7cd6a4b12079f73bbfb21745f9babcd4eb1d/vgg_generated_64.i -o 7126a5d9a8884ebca5aea5d63d677225-vgg_generated_64.i
